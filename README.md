@@ -1,2 +1,2 @@
 # learngit-second
-Creat a new branch is quick
+Creat a new branch is quick and simple
